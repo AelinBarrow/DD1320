@@ -1,4 +1,4 @@
-#Michaela Jankulicova
+
 #DD1320
 #Laboration 7
 
