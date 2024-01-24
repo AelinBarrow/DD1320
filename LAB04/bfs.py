@@ -1,5 +1,5 @@
 #DD1320
-#Michaela Jankulicova
+
 #Laboration 4
 
 from bintreeFileV2 import Bintree
