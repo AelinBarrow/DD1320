@@ -1,6 +1,7 @@
 #DD1320
-#Michaela Jankulicova
+
 #Laboration 4
+
 from bintreeFileV2 import Bintree
 from linkedQFileV2 import LinkedQ
 from parentfile import ParentNode
