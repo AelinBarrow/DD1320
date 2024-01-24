@@ -1,5 +1,5 @@
 #DD1320
-#Michaela Jankulicova
+
 #Lab02
 
 from arrayQFile import ArrayQ
