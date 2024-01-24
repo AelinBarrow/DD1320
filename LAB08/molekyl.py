@@ -1,6 +1,7 @@
 #laboration 7
-#Michaela Jankulicova
+
 #DD1320
+
 from linkedQFileV2 import LinkedQ
 import sys
  
